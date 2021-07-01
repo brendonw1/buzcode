@@ -139,5 +139,3 @@ if exist('basePath','var')
     save(bz_sleepstateepisodespath,'SleepStateEpisodes');
 end
 
-
-
